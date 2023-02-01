@@ -90,18 +90,6 @@ footer {
     text-align:center
 }
 
-#subscribe-button-footer {
-    padding: 0.75rem 1.2rem;
-    font-family: 'Inter', sans-serif;
-    font-weight: bold;
-    font-size: 0.75rem;
-    color:#FFFFFF;
-    background: #000000;
-    border: 1px solid #525252;
-    box-shadow: 0px 1.98166px 1.98166px rgba(0, 0, 0, 0.25);
-    border-radius: 8.42204px;
-}
-
 #mc-embedded-subscribe {
     text-align: center;
     font-size: 0.8rem;
@@ -122,7 +110,9 @@ footer {
 }
 
 #mc-embedded-subscribe{
+    color:#000000;
     max-height: 5rem;  
+    min-height: 3rem;
     padding: 0.8rem 2rem;
     font-family: 'Inter', sans-serif; 
     font-weight: bold; 
