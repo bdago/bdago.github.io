@@ -189,15 +189,6 @@ footer {
         flex-direction: column;
     }   
     
-    #mc-embedded-subscribe {
-        font-family: 'Inter', sans-serif; 
-        font-weight: bold; 
-        background: #FFA500; 
-        border: 1px solid #525252; 
-        box-shadow: 0px 1.98166px 1.98166px rgba(0, 0, 0, 0.25);
-        border-radius: 8.42204px;
-    }
-    
     #mc-embedded-subscribe, .required-email {
         width: 15rem;
         /* height: 3rem; */
