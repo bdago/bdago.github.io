@@ -203,6 +203,8 @@ footer {
         /* height: 3rem; */
         font-size: 1rem;
         padding: 1rem 2rem;
+    }
+    #mc-embedded-subscribe {
         font-family: 'Inter', sans-serif; 
         font-weight: bold; 
         background: #FFA500; 
